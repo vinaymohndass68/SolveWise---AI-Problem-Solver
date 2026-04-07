@@ -1,0 +1,7 @@
+{
+  "name": "SolveWise - AI Problem Solver",
+  "description": "A sophisticated problem-solving assistant that categorizes issues, asks clarifying questions, and provides interactive step-by-step guides for any challenge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
